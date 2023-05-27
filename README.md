@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alamir Hussein</h1>
 <h3 align="center">A passionate nodejs backend developer</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=alamir151&label=Profile%20views&color=0e75b6&style=flat" alt="alamir151" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alamir151&label=Profile%20views&color=0e75b6&style=flat" alt="alamir151" /> </p>
 
-<p align="left"> <img src="https://siblingssoftware.com.ar/images/node-js-development-outsourcing/node-js-software-outsourcing-model-staff-augmentation-001.png" alt="alamir151" /> </p>
+<p align="right"> <img src="https://siblingssoftware.com.ar/images/node-js-development-outsourcing/node-js-software-outsourcing-model-staff-augmentation-001.png" alt="alamir151" /> </p>
 
 - 🔭 I’m currently working on [zoom-clone chat](https://github.com/Alamir151/zoom-clone)
 
